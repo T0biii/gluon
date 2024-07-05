@@ -47,3 +47,24 @@ msgstr ""
 "Du kannst den Uplink über einen Mobilfunk Service aktivieren. Wenn du "
 "dich dafür entscheidest, wird die VPN-Verbindung über das integrierte "
 "Mobilfunk-Modem hergestellt."
+
+msgid "auth"
+msgstr "Authentication"
+
+msgid "auth"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "pap"
+msgstr ""
+
+msgid "chap"
+msgstr ""
+
+msgid "both"
+msgstr ""
+
+msgid "roaming"
+msgstr "Roaming"

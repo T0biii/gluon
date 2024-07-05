@@ -35,3 +35,21 @@ msgid ""
 "You can enable uplink via cellular service. If you decide so, the VPN "
 "connection is established using the integrated WWAN modem."
 msgstr ""
+
+msgid "auth"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "pap"
+msgstr ""
+
+msgid "chap"
+msgstr ""
+
+msgid "both"
+msgstr ""
+
+msgid "roaming"
+msgstr ""
