@@ -9,6 +9,7 @@ features {
 	'status-page',
 	'web-advanced',
 	'web-wizard',
+	'web-cellular',
 }
 
 if not device_class('tiny') then
